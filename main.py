@@ -97,7 +97,10 @@ def build_calendar(games: list[dict], team: str, source_url: str) -> str:
                 f"DTSTAMP:{created}",
                 f"DTSTART;TZID=Europe/Berlin:{start}",
                 f"DTEND;TZID=Europe/Berlin:{end}",
-                f"SUMMARY:{_ics_text(game['home'])} vs. {_ics_text(game['guest'])}",
+                (
+                    f"SUMMARY:{_ics_text(game['home'])} vs. {_ics_text(game['guest'])}"
+                    f"{' (Pokal)' if game.get('competition') == 'Pokal' else ''}"
+                ),
                 f"STATUS:{status}",
                 f"DESCRIPTION:Spiel {game.get('matchNo', '')} - {_ics_text(team)}",
                 f"URL:{match_url}",
@@ -134,6 +137,8 @@ def main() -> int:
         games_by_id = {}
         for url in args.url or DEFAULT_API_URLS:
             for game in find_team_games(fetch_schedule(url), args.team):
+                if "/id/53854" in url:
+                    game["competition"] = "Pokal"
                 game_id = game.get("matchId") or (
                     game["kickoffDate"],
                     game["kickoffTime"],
