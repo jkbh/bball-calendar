@@ -7,7 +7,7 @@ X-WR-CALNAME:TuS Lübeck Basketball
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:bballics-2842471@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20260913T160000
 DTEND;TZID=Europe/Berlin:20260913T180000
 SUMMARY:Kieler Förde Baskets 2 vs. TuS Lübeck
@@ -17,7 +17,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842471
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842475@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20260919T180000
 DTEND;TZID=Europe/Berlin:20260919T200000
 SUMMARY:TuS Lübeck vs. BBC Rendsburg 2
@@ -27,7 +27,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842475
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842480@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20260926T173000
 DTEND;TZID=Europe/Berlin:20260926T193000
 SUMMARY:TuS Lübeck vs. TSB Flensburg
@@ -37,7 +37,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842480
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842483@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261003T193000
 DTEND;TZID=Europe/Berlin:20261003T213000
 SUMMARY:TuS Nortorf vs. TuS Lübeck
@@ -47,7 +47,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842483
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842490@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261031T173000
 DTEND;TZID=Europe/Berlin:20261031T193000
 SUMMARY:TuS Lübeck vs. Ellerbeker TV
@@ -57,7 +57,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842490
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2958695@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261114T173000
 DTEND;TZID=Europe/Berlin:20261114T193000
 SUMMARY:TuS Lübeck vs. TuS Nortorf (Pokal)
@@ -67,7 +67,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2958695
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842496@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261122T140000
 DTEND;TZID=Europe/Berlin:20261122T160000
 SUMMARY:TSV Bargteheide 2 vs. TuS Lübeck
@@ -77,7 +77,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842496
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842500@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261128T173000
 DTEND;TZID=Europe/Berlin:20261128T193000
 SUMMARY:TuS Lübeck vs. BSG Kisdorf Kaltenkirchen
@@ -87,7 +87,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842500
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842504@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261205T210000
 SUMMARY:1. SC Norderstedt vs. TuS Lübeck
@@ -97,7 +97,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842504
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842510@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20261212T173000
 DTEND;TZID=Europe/Berlin:20261212T193000
 SUMMARY:TuS Lübeck vs. BG Ostholstein
@@ -107,7 +107,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842510
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842516@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270109T173000
 DTEND;TZID=Europe/Berlin:20270109T193000
 SUMMARY:TuS Lübeck vs. Kieler Förde Baskets 2
@@ -117,7 +117,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842516
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842520@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270116T160000
 DTEND;TZID=Europe/Berlin:20270116T180000
 SUMMARY:BBC Rendsburg 2 vs. TuS Lübeck
@@ -127,7 +127,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842520
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842525@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270131T153000
 DTEND;TZID=Europe/Berlin:20270131T173000
 SUMMARY:TSB Flensburg vs. TuS Lübeck
@@ -137,7 +137,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842525
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842528@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270206T150000
 DTEND;TZID=Europe/Berlin:20270206T170000
 SUMMARY:TuS Lübeck vs. TuS Nortorf
@@ -147,7 +147,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842528
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842535@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270213T200000
 DTEND;TZID=Europe/Berlin:20270213T220000
 SUMMARY:Ellerbeker TV vs. TuS Lübeck
@@ -157,7 +157,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842535
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842541@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270220T173000
 DTEND;TZID=Europe/Berlin:20270220T193000
 SUMMARY:TuS Lübeck vs. TSV Bargteheide 2
@@ -167,7 +167,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842541
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842545@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270307T154500
 DTEND;TZID=Europe/Berlin:20270307T174500
 SUMMARY:BSG Kisdorf Kaltenkirchen vs. TuS Lübeck
@@ -177,7 +177,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842545
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842549@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270313T173000
 DTEND;TZID=Europe/Berlin:20270313T193000
 SUMMARY:TuS Lübeck vs. 1. SC Norderstedt
@@ -187,7 +187,7 @@ URL:https://www.basketball-bund.net/static/#/spiel/2842549
 END:VEVENT
 BEGIN:VEVENT
 UID:bballics-2842555@basketball-bund.net
-DTSTAMP:20260820T033336Z
+DTSTAMP:20260821T033633Z
 DTSTART;TZID=Europe/Berlin:20270417T180000
 DTEND;TZID=Europe/Berlin:20270417T200000
 SUMMARY:BG Ostholstein vs. TuS Lübeck
